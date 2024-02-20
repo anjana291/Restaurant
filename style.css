@@ -159,6 +159,7 @@ body{
     color: #e8e8e9;
     padding-top: 60px;
     padding-left: 25px; 
+    padding-bottom: 30px;
 }
 #menu span{
     letter-spacing: 2px;
@@ -207,6 +208,9 @@ body{
 }
 .rating{
     padding-left: 85px;           
+}
+.bott-menu{
+    padding-top: 40px;
 }
 .bottom{
     width: 100%;
@@ -260,7 +264,7 @@ body{
 /* Reviews */
 
 #review-sec{
-    margin-top: 260px;
+    margin-top: 300px;
 }
 
 #review-sec h2{
@@ -397,7 +401,7 @@ body{
 /* Contact Us */
 
 #contact{
-    /* margin-top: 0px; */
+    margin-top: 60px;
     height: 100vh;
 }
 .contact-form-div{
